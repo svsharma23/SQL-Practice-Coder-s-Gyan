@@ -1,5 +1,5 @@
 # SQL Query Practice – Coder’s Gyan
-This repository contains solutions to 10 SQL problems based on the **Coder's Gyan SQL series**.
+This repository contains solutions to 10 SQL problems based on the **Coders Gyan SQL series**.
 The project focuses on improving SQL skills through real-world-style queries.
 
 
